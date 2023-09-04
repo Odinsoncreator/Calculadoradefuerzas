@@ -15,4 +15,5 @@ Fin del programa: El programa permite al usuario repetir el proceso o salir del 
 Este programa proporciona una herramienta interactiva para calcular y almacenar los resultados de ejercicios de fuerzas vectoriales en física.
 
 FB: @aztecbyte
+
 ![Resultado](https://github.com/Odinsoncreator/Calculadoradefuerzas/assets/111935651/ed1bb30e-f9aa-4a99-b75b-68743b7fa8ae)
